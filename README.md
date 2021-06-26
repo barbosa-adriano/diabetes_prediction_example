@@ -6,9 +6,9 @@ O conjunto de dados é originalmente do Instituto Nacional de Diabetes e Doença
 
 Os conjuntos de dados consistem em diversas variáveis médicas e uma variável de rótulo (label), Outcome.
 
-#As variáveis médicas incluem:
+-->As variáveis médicas incluem:
 
-  - Gravidez (Pregnancies):/# número de gestações que a paciente teve
+  - Gravidez (Pregnancies): número de gestações que a paciente teve
   - Glicose (Glucose)
   - Pressão Sanguínea (BloodPressure)
   - Espessura da Pele (SkinThickness)
